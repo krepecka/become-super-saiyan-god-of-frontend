@@ -94,6 +94,8 @@ How to write them and how do they actually work.
 ### Accessibility
 
 - [ ] aria labels
+    - [ ] https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships
+    - [ ] https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute
 - [ ] semantic markup
 - [ ] a11y testing
 

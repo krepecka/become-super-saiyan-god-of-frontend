@@ -1,4 +1,4 @@
-# front-end-ramp-up
+# Become Super Saiyan God of frontend development
 
 1. [JavaScript](#javascript)
 1. [Browser](#browser)

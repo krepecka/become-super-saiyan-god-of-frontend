@@ -93,7 +93,9 @@ How to write them and how do they actually work.
 
 #### Accessibility
 
-- [ ] aria labels
+- [ ] aria attributes
+    - [ ] https://developers.google.com/web/fundamentals/accessibility
+    - [ ] https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 - [ ] semantic markup
 - [ ] a11y testing
 

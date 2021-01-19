@@ -1,10 +1,13 @@
 # Become Super Saiyan God of frontend development
 
+![Alt Text](https://i.pinimg.com/originals/de/c5/fd/dec5fd7786b84a7455f95970bc5416a3.gif)
+
 1. [JavaScript](#javascript)
 1. [Browser](#browser)
 1. [CSS](#css)
 1. [React](#react)
 1. [Tooling](#tooling)
+1. [Security](#security)
 
 
 ## JavaScript <a name="javascript"></a>
@@ -83,6 +86,10 @@ What are common techniquest to monitor performance. What new tools there are.
 - [ ] chrome developer tools
     - [ ] lighthouse
     - [ ] ..
+    
+### Browser extensions
+
+How to write them and how do they actually work.
 
 ### Accessibility
 
@@ -100,7 +107,15 @@ What are common techniquest to monitor performance. What new tools there are.
 - [ ] parsing/execution
 - [ ] SCSS
 
+
 ## React <a name="react"></a>
+
 
 ## Tooling <a name="tooling"></a>
 
+Linters, transpilers...
+
+
+## Security <a name="security"></a>
+
+What types of vurnerabilities there are, have been in the past, best practices.

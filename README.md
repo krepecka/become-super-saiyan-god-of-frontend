@@ -121,3 +121,7 @@ Linters, transpilers...
 ## Security <a name="security"></a>
 
 What types of vurnerabilities there are, have been in the past, best practices.
+- [ ] SQL injection
+- [ ] XSS
+- [ ] DDoS
+- [ ] CSRF

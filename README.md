@@ -14,12 +14,12 @@
 
 Everything related to javascript execution, its running environment.
 
-### Engines
+#### Engines
 
 - [ ] V8 and alternatives
 - [ ] deno
 
-### Language concepts
+#### Language concepts
 
 - [ ] Promises
 - [ ] async/await
@@ -29,14 +29,14 @@ Everything related to javascript execution, its running environment.
 - [ ] Objects
 - [ ] Generators
 
-### Modules
+#### Modules
 
 - [ ] import/export
 - [ ] ES6 modules
 - [ ] CommonJS
 - [ ] ..
 
-### Event loop
+#### Event loop
 
 - [ ] Event loop
 - [ ] Task queue
@@ -44,32 +44,32 @@ Everything related to javascript execution, its running environment.
 
 ## Browser <a name="browser"></a>
 
-### HTTP Requests
+#### HTTP Requests
 
 - [ ] GET, PUT, POST, PATCH, OPTIONS, HEAD, DELETE
 - [ ] HTTP request caching
 - [ ] HTTP Request resolution
 - [ ] low level request execution cycle
 
-### CDNs
+#### CDNs
 
 What they are, what purpose do they serve, what are the capabilities.
 
-### Caching
+#### Caching
 
 Types/levels of caching, how does it work, clearing the cache..
 
-### DOM
+#### DOM
 
-### Website rendering phases
+#### Website rendering phases
 
 - [ ] layout, painting...
 
-### Local/Session storage, cookies
+#### Local/Session storage, cookies
 
 Lifespan, use cases, concerns, API.
 
-### Performance
+#### Performance
 
 - [ ] critical rendering path
 - [ ] service workers
@@ -77,7 +77,7 @@ Lifespan, use cases, concerns, API.
 - [ ] image optimization
 - [ ] bundle size optimizations
 
-### Performance monitoring/tooling
+#### Performance monitoring/tooling
 
 What are common techniquest to monitor performance. What new tools there are.
 
@@ -87,11 +87,11 @@ What are common techniquest to monitor performance. What new tools there are.
     - [ ] lighthouse
     - [ ] ..
     
-### Browser extensions
+#### Browser extensions
 
 How to write them and how do they actually work.
 
-### Accessibility
+#### Accessibility
 
 - [ ] aria labels
 - [ ] semantic markup

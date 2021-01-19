@@ -8,6 +8,7 @@
 1. [React](#react)
 1. [Tooling](#tooling)
 1. [Security](#security)
+1. [SEO](#seo)
 
 
 ## JavaScript <a name="javascript"></a>
@@ -112,12 +113,22 @@ How to write them and how do they actually work.
 
 ## React <a name="react"></a>
 
+#### Server side rendering
+
 
 ## Tooling <a name="tooling"></a>
 
-Linters, transpilers...
+Linters, transpilers..
+
+#### webpack
+- [ ] Plugins
+- [ ] Federation
+- [ ] New versions of webpack
 
 
 ## Security <a name="security"></a>
 
 What types of vurnerabilities there are, have been in the past, best practices.
+
+
+## SEO <a name="seo"></a>

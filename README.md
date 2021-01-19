@@ -125,6 +125,8 @@ Linters, transpilers..
 - [ ] Federation
 - [ ] New versions of webpack
 
+#### storybook (building component libraries)
+
 
 ## Security <a name="security"></a>
 

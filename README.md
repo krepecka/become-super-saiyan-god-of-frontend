@@ -7,8 +7,10 @@
 1. [CSS](#css)
 1. [React](#react)
 1. [Tooling](#tooling)
+1. [TypeScript](#ts)
 1. [Security](#security)
 1. [SEO](#seo)
+
 
 
 ## JavaScript <a name="javascript"></a>
@@ -238,7 +240,7 @@ Linters, transpilers..
 
 #### storybook (building component libraries)
 
-## TypeScript
+## TypeScript <a name="ts"></a>
 
 - [ ] Handbook
     - [ ] https://www.typescriptlang.org/docs/handbook/intro.html

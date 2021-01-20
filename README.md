@@ -243,7 +243,7 @@ Linters, transpilers..
 - [ ] Handbook
     - [ ] https://www.typescriptlang.org/docs/handbook/intro.html
 - [ ] Kent C Dodds said to read about narrowing
-    = [ ] https://www.typescriptlang.org/docs/handbook/2/narrowing.html
+    - [ ] https://www.typescriptlang.org/docs/handbook/2/narrowing.html
 
 
 ## Security <a name="security"></a>

@@ -121,7 +121,6 @@ How to write them and how do they actually work.
 
 ## CSS <a name="css"></a>
 
-
 <details open>
   <summary>CSS - you have to know it.</summary>
 

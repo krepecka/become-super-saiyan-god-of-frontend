@@ -15,8 +15,11 @@
 
 ## JavaScript <a name="javascript"></a>
 
-Everything related to javascript execution, its running environment.
 
+
+<details open>
+  <summary>Everything related to javascript execution, its running environment.</summary>
+  
 #### Engines
 
 - [ ] V8 and alternatives
@@ -44,8 +47,14 @@ Everything related to javascript execution, its running environment.
 - [ ] Event loop
 - [ ] Task queue
 - [ ] Microtask queue
+  
+</details>
 
 ## Browser <a name="browser"></a>
+
+
+<details open>
+  <summary>Browser related tech.</summary>
 
 #### HTTP Requests
 
@@ -107,8 +116,15 @@ How to write them and how do they actually work.
 - [ ] a11y testing
 - [ ] a11y in React:
     - [ ] https://reactjs.org/docs/accessibility.html
+    
+</details>
 
 ## CSS <a name="css"></a>
+
+
+<details open>
+  <summary>CSS - you have to know it.</summary>
+
 
 - [ ] box model
 - [ ] flex-box
@@ -118,8 +134,14 @@ How to write them and how do they actually work.
 - [ ] parsing/execution
 - [ ] SCSS
 
+</details>
+
 
 ## React <a name="react"></a>
+
+
+<details open>
+  <summary>React is fun.</summary>
 
 #### React component lifecycle
 
@@ -229,9 +251,14 @@ How to write them and how do they actually work.
 
 - [ ] https://reactjs.org/docs/testing.html
 
+</details>
+
 ## Tooling <a name="tooling"></a>
 
-Linters, transpilers..
+
+<details open>
+  <summary>Linters, transpilers.. The ecosystem is bigger than you thought.</summary>
+
 
 #### webpack
 - [ ] Plugins
@@ -239,6 +266,8 @@ Linters, transpilers..
 - [ ] New versions of webpack
 
 #### storybook (building component libraries)
+
+</details>
 
 ## TypeScript <a name="ts"></a>
 

@@ -45,6 +45,8 @@
 #### Event loop
 
 - [ ] Event loop
+  - [ ] That yt video
+  - [ ] https://nodesource.com/blog/event-loop-utilization-nodejs
 - [ ] Task queue
 - [ ] Microtask queue
   

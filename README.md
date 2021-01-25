@@ -228,7 +228,7 @@ How to write them and how do they actually work.
     - [ ] useImperativeHandle https://reactjs.org/docs/hooks-reference.html#useimperativehandle
     - [ ] useLayoutEffect https://reactjs.org/docs/hooks-reference.html#uselayouteffect
     - [ ] useDebugValue https://reactjs.org/docs/hooks-reference.html#usedebugvalue
-    - [ ] https://github.com/facebook/react/pull/20646
+    - [ ] unstable_useSelectedContext https://github.com/facebook/react/pull/20646
 - [ ] Rules of hooks
     - [ ] https://reactjs.org/docs/hooks-rules.html
 - [ ] Custom hooks
@@ -239,6 +239,13 @@ How to write them and how do they actually work.
 #### Concurrent mode
 
 - [ ] https://reactjs.org/docs/concurrent-mode-intro.html
+- [x] Suspense for data fetching
+- [x] useTransition hook 
+```javascript
+const [startTransition, isPending] = useTransition({
+   timeoutMs: 3000
+});
+```
 
 #### Server components
 

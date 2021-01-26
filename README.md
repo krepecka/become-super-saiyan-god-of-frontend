@@ -134,6 +134,7 @@ How to write them and how do they actually work.
     - [ ] https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 - [ ] parsing/execution
 - [ ] SCSS
+- [ ] Styled components https://www.joshwcomeau.com/css/styled-components/
 
 </details>
 

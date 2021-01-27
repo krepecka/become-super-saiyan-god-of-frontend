@@ -77,6 +77,8 @@ Types/levels of caching, how does it work, clearing the cache..
 
 #### DOM
 
+ - [ ] Event propagation and bubbling
+
 #### Website rendering phases
 
 - [ ] layout, painting...

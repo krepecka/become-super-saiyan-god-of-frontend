@@ -152,7 +152,7 @@ How to write them and how do they actually work.
 - [ ] class components 
     - [ ] https://medium.com/better-programming/the-react-component-lifecycle-c9302202a69f
 - [ ] hooks
-    - [ ] .
+    - [ ] https://reactjs.org/docs/hooks-overview.html
     
  
 #### React advanced API

@@ -243,7 +243,7 @@ How to write them and how do they actually work.
 
 - [x] https://reactjs.org/docs/concurrent-mode-intro.html
 - [x] Suspense for data fetching
-- [ ] API reference https://reactjs.org/docs/concurrent-mode-reference.html
+- [x] API reference https://reactjs.org/docs/concurrent-mode-reference.html
 - [x] useTransition hook https://reactjs.org/docs/concurrent-mode-patterns.html
 ```javascript
 const [startTransition, isPending] = useTransition({

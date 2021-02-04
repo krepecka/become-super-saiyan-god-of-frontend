@@ -4,13 +4,14 @@
 
 1. [JavaScript](#javascript)
 1. [Browser](#browser)
+1. [Performance](#perf)
 1. [CSS](#css)
 1. [React](#react)
 1. [Tooling](#tooling)
 1. [TypeScript](#ts)
 1. [Security](#security)
 1. [SEO](#seo)
-
+1. [Misc](#misc)
 
 
 ## JavaScript <a name="javascript"></a>
@@ -24,6 +25,7 @@
 
 - [ ] V8 and alternatives
 - [ ] deno
+  - [ ] https://www.youtube.com/watch?v=puXyo1jGQys
 
 #### Language concepts
 
@@ -37,18 +39,19 @@
 
 #### Modules
 
-- [ ] import/export
-- [ ] ES6 modules
-- [ ] CommonJS
-- [ ] ..
+- [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
 #### Event loop
 
 - [ ] Event loop
-  - [ ] That yt video
+  - [ ] That yt video https://www.youtube.com/watch?v=8aGhZQkoFbQ
   - [ ] https://nodesource.com/blog/event-loop-utilization-nodejs
 - [ ] Task queue
 - [ ] Microtask queue
+
+#### New ECMAScript features
+
+- [ ] 2020 https://2ality.com/2019/12/ecmascript-2020.html
   
 </details>
 
@@ -86,26 +89,6 @@ Types/levels of caching, how does it work, clearing the cache..
 #### Local/Session storage, cookies
 
 Lifespan, use cases, concerns, API.
-
-#### Performance
-
-- [ ] critical rendering path
-- [ ] service workers
-- [ ] resource preloading
-- [ ] image optimization
-- [ ] bundle size optimizations
-    - [ ] dynamic imports 
-        - [ ] https://v8.dev/features/dynamic-import
-
-#### Performance monitoring/tooling
-
-What are common techniquest to monitor performance. What new tools there are.
-
-- [ ] web vitals
-- [ ] performance observers
-- [ ] chrome developer tools
-    - [ ] lighthouse
-    - [ ] ..
     
 #### Browser extensions
 
@@ -121,6 +104,37 @@ How to write them and how do they actually work.
 - [ ] a11y in React:
     - [ ] https://reactjs.org/docs/accessibility.html
     
+</details>
+
+## Performance <a name="perf"></a>
+
+<details open>
+  <summary>Perf deserves its own section.</summary>
+  
+#### Performance
+
+- [ ] critical rendering path
+  - [ ] https://web.dev/long-tasks-devtools/ 
+- [ ] service workers
+- [ ] resource loading
+  - [ ] prefetch https://web.dev/link-prefetch/
+  - [ ] preload https://web.dev/preload-critical-assets/
+- [ ] image optimization
+- [ ] bundle size optimizations
+    - [ ] dynamic imports 
+        - [ ] https://v8.dev/features/dynamic-import
+- [ ] load on interaction (lazy loading) https://addyosmani.com/blog/import-on-interaction/
+
+#### Performance monitoring/tooling
+
+What are common techniquest to monitor performance. What new tools there are.
+
+- [ ] web vitals
+- [ ] performance observers
+- [ ] chrome developer tools
+    - [ ] lighthouse
+    - [ ] ..
+  
 </details>
 
 ## CSS <a name="css"></a>
@@ -299,3 +313,20 @@ What types of vurnerabilities there are, have been in the past, best practices.
 
 
 ## SEO <a name="seo"></a>
+
+## MISC  <a name="misc"></a>
+
+https://web.dev/learn/ - should fill in a lot of gaps.
+
+- [ ] 150 questions https://github.com/lydiahallie/javascript-questions#readme
+- [ ] Fixing memory leaks https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
+- [ ] Mindblowers https://github.com/denysdovhan/wtfjs#readme
+- [ ] What to pay JS devs https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b
+- [ ] You don't need all that JS, I Promise https://www.youtube.com/watch?v=e1L2WgXu2JY
+- [ ] Goodbye, clean code by Dan https://overreacted.io/goodbye-clean-code/
+- [ ] JS Features to forget https://davidflanagan.com/2020/05/12/javascript-to-forget.html
+
+- [ ] https://timdaub.github.io/2021/01/16/web-principles/
+- [ ] How much you'd save with modern javascript https://estimator.dev/
+- [ ] Rising starts 2021 https://risingstars.js.org/2020/en
+

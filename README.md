@@ -33,9 +33,11 @@
 - [ ] async/await
 - [ ] `this` binding
 - [ ] Type system
+  - [ ] undefined vs null revisted https://2ality.com/2021/01/undefined-null-revisited.html
 - [ ] scopes
 - [ ] Objects
 - [ ] Generators
+
 
 #### Modules
 
@@ -305,6 +307,8 @@ const [startTransition, isPending] = useTransition({
     - [ ] https://www.typescriptlang.org/docs/handbook/intro.html
 - [ ] Kent C Dodds said to read about narrowing
     - [ ] https://www.typescriptlang.org/docs/handbook/2/narrowing.html
+    
+- [ ] https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/
 
 
 ## Security <a name="security"></a>

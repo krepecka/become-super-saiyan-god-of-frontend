@@ -58,7 +58,7 @@
 ## Browser <a name="browser"></a>
 
 
-<details open>
+<details>
   <summary>Browser related tech.</summary>
 
 #### HTTP Requests
@@ -108,7 +108,7 @@ How to write them and how do they actually work.
 
 ## Performance <a name="perf"></a>
 
-<details open>
+<details>
   <summary>Perf deserves its own section.</summary>
   
 #### Performance
@@ -139,7 +139,7 @@ What are common techniquest to monitor performance. What new tools there are.
 
 ## CSS <a name="css"></a>
 
-<details open>
+<details>
   <summary>CSS - you have to know it.</summary>
 
 
@@ -158,7 +158,7 @@ What are common techniquest to monitor performance. What new tools there are.
 ## React <a name="react"></a>
 
 
-<details open>
+<details>
   <summary>React is fun.</summary>
 
 #### React component lifecycle

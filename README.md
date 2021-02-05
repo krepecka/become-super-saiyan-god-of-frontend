@@ -325,12 +325,13 @@ https://web.dev/learn/ - should fill in a lot of gaps.
 - [ ] 150 questions https://github.com/lydiahallie/javascript-questions#readme
 - [ ] Fixing memory leaks https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
 - [ ] Mindblowers https://github.com/denysdovhan/wtfjs#readme
-- [ ] What to pay JS devs https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b
+- [x] What to pay JS devs https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b
 - [ ] You don't need all that JS, I Promise https://www.youtube.com/watch?v=e1L2WgXu2JY
 - [ ] Goodbye, clean code by Dan https://overreacted.io/goodbye-clean-code/
-- [ ] JS Features to forget https://davidflanagan.com/2020/05/12/javascript-to-forget.html
+- [x] JS Features to forget https://davidflanagan.com/2020/05/12/javascript-to-forget.html
+
 
 - [ ] https://timdaub.github.io/2021/01/16/web-principles/
-- [ ] How much you'd save with modern javascript https://estimator.dev/
+- [x] How much you'd save with modern javascript https://estimator.dev/
 - [ ] Rising starts 2021 https://risingstars.js.org/2020/en
 

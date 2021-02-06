@@ -23,7 +23,8 @@
   
 #### Engines
 
-- [ ] V8 and alternatives
+- [ ] JavaScript engine and its internals
+  - [x] Overview article https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
 - [ ] deno
   - [ ] https://www.youtube.com/watch?v=puXyo1jGQys
 

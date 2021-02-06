@@ -27,7 +27,6 @@
   - [ ] Simple take on JIT https://www.freecodecamp.org/news/just-in-time-compilation-explained/
   - [ ] JIT crash course https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
   - [x] Overview of JS engines https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
-  - [ ] 
 - [ ] V8 concepts and articles **this blog https://v8.dev/blog**
   - [x] First 10 years of V8 development https://v8.dev/blog/10-years
   - [ ] JS modules and V8 https://v8.dev/features/modules

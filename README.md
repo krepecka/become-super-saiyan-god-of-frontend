@@ -24,7 +24,7 @@
 #### Engines
 
 - [ ] More generic JS engine (V8) overview 
-  - [ ] Simple take on JIT https://www.freecodecamp.org/news/just-in-time-compilation-explained/
+  - [x] Just In Time (JIT) explained as a concept https://www.freecodecamp.org/news/just-in-time-compilation-explained/
   - [ ] JIT crash course https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
   - [x] Overview of JS engines https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
 - [ ] V8 concepts and articles **this blog https://v8.dev/blog**

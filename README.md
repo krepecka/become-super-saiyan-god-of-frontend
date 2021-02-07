@@ -26,8 +26,8 @@
 - [ ] More generic JS engine (V8) overview 
   - [x] Just In Time (JIT) explained as a concept https://www.freecodecamp.org/news/just-in-time-compilation-explained/
   - [x] JIT crash course https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
-    - profiler to have a baseline compiled versions of warm code
-    - optimizer to have very optimized versions of hot code
+    - baseline compiler to have a baseline compiled versions for warm code
+    - optimized compiler to have very optimized versions for hot code
   - [x] Overview of JS engines https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
 - [ ] V8 concepts and articles **this blog https://v8.dev/blog**
   - [x] First 10 years of V8 development https://v8.dev/blog/10-years

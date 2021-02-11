@@ -48,7 +48,13 @@
 #### Language concepts
 
 - [ ] Promises
+  - [ ] MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+  - [ ] Popular medium article https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - [ ] async/await
+  - [ ] async https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+  - [ ] await https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+  - [ ] both https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+  - [ ] medium https://medium.com/javascript-in-plain-english/async-await-javascript-5038668ec6eb
 - [ ] `this` binding
 - [ ] Type system
   - [ ] undefined vs null revisted https://2ality.com/2021/01/undefined-null-revisited.html

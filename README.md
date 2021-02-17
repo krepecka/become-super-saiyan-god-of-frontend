@@ -67,6 +67,7 @@
 #### Modules
 
 - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+- [ ] https://www.carlrippon.com/javascript-modules-in-2020/
 
 #### Event loop
 

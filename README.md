@@ -31,7 +31,8 @@
   - [x] Overview of JS engines https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
 - [ ] V8 concepts and articles **this blog https://v8.dev/blog**
   - [x] First 10 years of V8 development https://v8.dev/blog/10-years
-  - [ ] JS modules and V8 https://v8.dev/features/modules
+  - [x] JS modules and V8 https://v8.dev/features/modules
+  - [ ] Dynamic imports https://v8.dev/features/dynamic-import
   - [ ] React performance https://v8.dev/blog/react-cliff
   - [ ] V8 background compilation https://v8.dev/blog/background-compilation
   - [ ] Code coverage https://v8.dev/blog/javascript-code-coverage

@@ -38,6 +38,7 @@
   - [x] V8 releaso of V8.9 (2021-02) https://v8.dev/blog/v8-release-89
     - top level await under a feature flag
     - optimization for functions with argument mismatch
+  - [ ] Faster `super` calls https://v8.dev/blog/fast-super
 - [ ] WASM
   - [ ] https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 - [x] AST explorer https://astexplorer.net/

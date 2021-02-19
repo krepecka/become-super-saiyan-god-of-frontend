@@ -49,7 +49,15 @@
 
 - [ ] Promises
   - [ ] MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
-  - [ ] Popular medium article https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+    - Promise can be one of `fulfilled|rejected|pending`.
+    - Every Promise is thennable.
+    - Promise can only be settled once. Subsequent `reject()` and `resolve` calls are ignored.
+    - Resolved promise must have a value (can be `undefined`).
+    - then accepts two arguments: `then(onFulfilled, onRejected)` functions.
+    - then returns a promise. If it's a value - it is wrapped in Promise.resolve()
+    - `Promise` is a global object
+    - `Promise.all` and `Promise.race`
+  - [x] Popular medium article https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - [ ] async/await
   - [ ] async https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
   - [ ] await https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
@@ -59,8 +67,10 @@
 - [ ] Type system
   - [ ] undefined vs null revisted https://2ality.com/2021/01/undefined-null-revisited.html
 - [ ] scopes
+  - [ ] What is a closure https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 - [ ] Objects
 - [ ] Generators
+- [ ] Class vs. prototypal inheritance https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 
 
 #### Modules

@@ -64,13 +64,14 @@
 
 #### Modules
 
-- [x] JS modules and V8 https://v8.dev/features/modules
-- [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+- [x] MDN overview https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
   - top level await available
   - strict mode by default
   - `<script type="module"` is deferred by default
+- [x] JS modules and V8 deep dive https://v8.dev/features/modules
 - [x] simple api overview https://www.carlrippon.com/javascript-modules-in-2020/
-- [ ] https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+- [ ] cartoon deep dive https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+- [ ] in depth https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
 - [x] Dynamic imports https://v8.dev/features/dynamic-import
     - returns a promise `import()` is not a function - bracket are part of the syntax
 

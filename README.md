@@ -31,8 +31,6 @@
   - [x] Overview of JS engines https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
 - [ ] V8 concepts and articles **this blog https://v8.dev/blog**
   - [x] First 10 years of V8 development https://v8.dev/blog/10-years
-  - [x] JS modules and V8 https://v8.dev/features/modules
-  - [ ] Dynamic imports https://v8.dev/features/dynamic-import
   - [ ] React performance https://v8.dev/blog/react-cliff
   - [ ] V8 background compilation https://v8.dev/blog/background-compilation
   - [ ] Code coverage https://v8.dev/blog/javascript-code-coverage
@@ -66,8 +64,15 @@
 
 #### Modules
 
-- [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
-- [ ] https://www.carlrippon.com/javascript-modules-in-2020/
+- [x] JS modules and V8 https://v8.dev/features/modules
+- [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+  - top level await available
+  - strict mode by default
+  - `<script type="module"` is deferred by default
+- [x] simple api overview https://www.carlrippon.com/javascript-modules-in-2020/
+- [ ] https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+- [x] Dynamic imports https://v8.dev/features/dynamic-import
+    - returns a promise `import()` is not a function - bracket are part of the syntax
 
 #### Event loop
 
@@ -145,6 +150,7 @@ How to write them and how do they actually work.
   - [ ] https://web.dev/long-tasks-devtools/ 
 - [ ] service workers
 - [ ] resource loading
+  - [ ] script attributes https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attributes
   - [ ] prefetch https://web.dev/link-prefetch/
   - [ ] preload https://web.dev/preload-critical-assets/
 - [ ] image optimization

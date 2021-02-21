@@ -39,6 +39,7 @@
     - top level await under a feature flag
     - optimization for functions with argument mismatch
   - [ ] Faster `super` calls https://v8.dev/blog/fast-super
+  - [ ] Async stack traces https://mathiasbynens.be/notes/async-stack-traces
 - [ ] WASM
   - [ ] https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 - [x] AST explorer https://astexplorer.net/

@@ -325,6 +325,10 @@ const [startTransition, isPending] = useTransition({
 
 - [ ] https://reactjs.org/docs/testing.html
 
+#### React official blog
+
+https://reactjs.org/blog/all.html
+
 </details>
 
 ## Tooling <a name="tooling"></a>

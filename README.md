@@ -31,7 +31,7 @@
   - [x] Overview of JS engines https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
 - [ ] V8 concepts and articles **this blog https://v8.dev/blog**
   - [x] First 10 years of V8 development https://v8.dev/blog/10-years
-  - [x] React performance cliff (V8 internals explained: SMI and HeapNumbers) https://v8.dev/blog/react-cliff
+  - [x] React performance cliff (V8 internals explained: SMI and HeapNumbers, Shape chaining optimization) https://v8.dev/blog/react-cliff
   - [ ] Shapes and inline caches (basically about the same thing as :point_up:) https://mathiasbynens.be/notes/shapes-ics
   - [ ] Prototype optimization in V8 (similar to :point_up:) https://mathiasbynens.be/notes/prototypes
   - [ ] V8 background compilation https://v8.dev/blog/background-compilation

@@ -317,12 +317,9 @@ const [startTransition, isPending] = useTransition({
 
 #### Server components
 
-- [x] Intro
-    - [x] https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
-- [ ] Demo example 
-    - [ ] https://github.com/reactjs/server-components-demo
-- [ ] RFC
-    - [ ] https://github.com/josephsavona/rfcs/blob/server-components/text/0000-server-components.md
+- [x] Intro https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
+- [x] Demo example https://github.com/reactjs/server-components-demo
+- [ ] RFC (Detailed implementation) https://github.com/josephsavona/rfcs/blob/server-components/text/0000-server-components.md
 
 #### React testing
 

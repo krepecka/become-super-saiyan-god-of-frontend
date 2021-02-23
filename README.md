@@ -281,8 +281,9 @@ What are common techniquest to monitor performance. What new tools there are.
     - [ ] Dan's video
     - [ ] https://reactjs.org/docs/hooks-overview.html
 - [ ] useState
-    - [ ] https://reactjs.org/docs/hooks-state.html
-    - [ ] https://reactjs.org/docs/hooks-reference.html#usestate
+    - [x] https://reactjs.org/docs/hooks-state.html
+    - [x] https://reactjs.org/docs/hooks-reference.html#usestate
+      - prevValue func; setState identity guaranteed the same; Object.is to bail out of render
 - [ ] useEffect
     - [ ] https://reactjs.org/docs/hooks-effect.html
     - [ ] https://reactjs.org/docs/hooks-reference.html#useeffect 

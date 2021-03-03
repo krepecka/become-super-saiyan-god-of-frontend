@@ -66,15 +66,36 @@
   - [ ] await https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
   - [ ] both https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
   - [ ] medium https://medium.com/javascript-in-plain-english/async-await-javascript-5038668ec6eb
-- [ ] `this` binding
+- [ ] Behavior of `this` 
+  - [ ] https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch1.md
+  - [ ] https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch2.md
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 - [ ] Type system
   - [ ] undefined vs null revisted https://2ality.com/2021/01/undefined-null-revisited.html
 - [ ] scopes
-  - [ ] What is a closure https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+  - [ ] Scopes and hoisting https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/
+  - [ ] Temporal dead zone https://www.freecodecamp.org/news/what-is-the-temporal-dead-zone/
+  - [ ] Closures https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 - [ ] Objects
 - [ ] Generators
+- [ ] Prototypes https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch5.md
 - [ ] Class vs. prototypal inheritance https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+- [ ] Regular expressions
+- [ ] Math and Number system
+  - [ ] https://javascript.info/number
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 
+
+#### Patterns - existing constructs
+
+- [ ] Pure functions https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
+- [ ] Higher order functions 
+  - [ ] https://eloquentjavascript.net/05_higher_order.html
+  - [ ] https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad
+- [ ] Feature detection
+  - [ ] https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection
+  - [ ] Writing polyfills https://addyosmani.com/blog/writing-polyfills/
+- [ ] Method chaining https://medium.com/backticks-tildes/understanding-method-chaining-in-javascript-647a9004bd4f
 
 #### Modules
 
@@ -94,8 +115,10 @@
 - [ ] Event loop
   - [ ] That yt video https://www.youtube.com/watch?v=8aGhZQkoFbQ
   - [ ] https://nodesource.com/blog/event-loop-utilization-nodejs
-- [ ] Task queue
+- [ ] Message queue
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
 - [ ] Microtask queue
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth
 
 #### New ECMAScript features
 

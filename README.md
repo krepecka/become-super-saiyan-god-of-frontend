@@ -19,7 +19,7 @@
 
 
 <details open>
-  <summary>Everything related to javascript execution, its running environment.</summary>
+  <summary>Everything related to javascript features, execution, its running environment.</summary>
   
 #### Engines
 

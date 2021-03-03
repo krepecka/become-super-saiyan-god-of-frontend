@@ -222,6 +222,7 @@ What are common techniquest to monitor performance. What new tools there are.
 - [ ] specificity rules 
     - [ ] https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 - [ ] parsing/execution
+  - [ ] Aimee Knight on internals: https://www.youtube.com/watch?v=eajyNEsdx4k
 - [ ] SCSS
 - [ ] Styled components https://www.joshwcomeau.com/css/styled-components/
 

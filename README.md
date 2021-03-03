@@ -76,6 +76,7 @@
   - [ ] Scopes and hoisting https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/
   - [ ] Temporal dead zone https://www.freecodecamp.org/news/what-is-the-temporal-dead-zone/
   - [ ] Closures https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+  - [ ] try/catch scope
 - [ ] Objects
 - [ ] Generators
 - [ ] Prototypes https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch5.md

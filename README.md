@@ -9,9 +9,10 @@
 1. [React](#react)
 1. [Tooling](#tooling)
 1. [TypeScript](#ts)
-1. [Security](#security)
-1. [SEO](#seo)
-1. [Misc](#misc)
+1. [GraphlQL](#graphql)
+3. [Security](#security)
+4. [SEO](#seo)
+5. [Misc](#misc)
 
 
 ## JavaScript <a name="javascript"></a>
@@ -387,6 +388,19 @@ https://youtu.be/szh2Qgo9SVE
     - [ ] https://www.typescriptlang.org/docs/handbook/2/narrowing.html
     
 - [ ] https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/
+
+## GraphQL <a name="graphql"></a>
+
+You have to include it. Fortunately or not.
+
+<details>
+  <summary>GraphQL</summary>
+
+#### Relay
+
+- [ ] Relay hooks https://relay.dev/blog/2021/03/09/introducing-relay-hooks/
+
+</details>
 
 
 ## Security <a name="security"></a>

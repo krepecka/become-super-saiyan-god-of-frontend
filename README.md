@@ -151,6 +151,8 @@ What they are, what purpose do they serve, what are the capabilities.
 
 Types/levels of caching, how does it work, clearing the cache..
 
+- [ ] HTTP caching https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching
+
 #### DOM
 
  - [ ] Event propagation and bubbling

@@ -423,7 +423,7 @@ What types of vurnerabilities there are, have been in the past, best practices.
 
 - [ ] Fixing memory leaks https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
 - [x] You don't need all that JS, I Promise https://www.youtube.com/watch?v=e1L2WgXu2JY
-  - tl;dr keep up with new browser, html, css apis. For example <portal>
+  - tl;dr keep up with new browser, html, css apis. For example < portal />
 - [x] JS Features to forget https://davidflanagan.com/2020/05/12/javascript-to-forget.html
 
 #### Interesting stuff

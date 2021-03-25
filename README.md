@@ -63,8 +63,12 @@
     - `Promise.all` and `Promise.race`
   - [x] Popular medium article https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - [ ] async/await
-  - [ ] async https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
-  - [ ] await https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+  - [x] async https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+  ![image](https://user-images.githubusercontent.com/17677991/112530837-94318a80-8daf-11eb-82a5-2403e4e1f10a.png)
+
+  - [x] await https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+![image](https://user-images.githubusercontent.com/17677991/112530755-7e23ca00-8daf-11eb-8faf-86ffc67fd0e6.png)
+
   - [ ] both https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
   - [ ] medium https://medium.com/javascript-in-plain-english/async-await-javascript-5038668ec6eb
 - [ ] Behavior of `this` 

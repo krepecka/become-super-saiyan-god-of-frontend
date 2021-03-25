@@ -52,7 +52,7 @@
 #### Language concepts
 
 - [ ] Promises
-  - [ ] MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+  - [x] MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
     - Promise can be one of `fulfilled|rejected|pending`.
     - Every Promise is thennable.
     - Promise can only be settled once. Subsequent `reject()` and `resolve` calls are ignored.
@@ -121,6 +121,12 @@
   - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
 - [ ] Microtask queue
   - [ ] https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth
+
+#### Web Workers
+
+- [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+- [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+- [ ] https://web.dev/off-main-thread/
 
 #### New ECMAScript features
 

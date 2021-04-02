@@ -259,7 +259,7 @@ What are common techniquest to monitor performance. What new tools there are.
 
 
 <details>
-  ## <summary>React <a name="react"></a>.</summary>
+ <summary>React</summary>
 
 #### React component lifecycle
 
@@ -386,7 +386,7 @@ https://reactjs.org/blog/all.html
 ## Tooling <a name="tooling"></a>
 
 
-<details open>
+<details>
   <summary>Linters, transpilers.. The ecosystem is bigger than you thought.</summary>
   
 #### Electron
@@ -407,6 +407,9 @@ https://youtu.be/szh2Qgo9SVE
 
 ## TypeScript <a name="ts"></a>
 
+<details>
+  <summary>The necessary evil</summary>
+
 - [ ] Handbook
     - [ ] https://www.typescriptlang.org/docs/handbook/intro.html
 - [ ] Kent C Dodds said to read about narrowing
@@ -415,8 +418,6 @@ https://youtu.be/szh2Qgo9SVE
 - [ ] https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/
 
 ## GraphQL <a name="graphql"></a>
-
-You have to include it. Fortunately or not.
 
 <details>
   <summary>GraphQL</summary>

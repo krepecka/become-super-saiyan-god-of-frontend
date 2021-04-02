@@ -143,6 +143,19 @@
 
 <details>
   <summary>Browser related tech.</summary>
+  
+  
+#### Browser APIs
+
+- [ ] Notifications
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API
+  - [ ] https://developers.google.com/web/fundamentals/push-notifications
+- [ ] Service workers
+  - [ ] https://developers.google.com/web/fundamentals/primers/service-workers
+- [ ] Web workers
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+  - [ ] https://web.dev/off-main-thread/
 
 #### HTTP Requests
 
@@ -246,7 +259,7 @@ What are common techniquest to monitor performance. What new tools there are.
 
 
 <details>
-  <summary>React is fun.</summary>
+  <summary>## React <a name="react"></a>.</summary>
 
 #### React component lifecycle
 

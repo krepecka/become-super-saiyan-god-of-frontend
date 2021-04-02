@@ -126,12 +126,6 @@
 - [ ] Microtask queue
   - [ ] https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth
 
-#### Web Workers
-
-- [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
-- [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
-- [ ] https://web.dev/off-main-thread/
-
 #### New ECMAScript features
 
 - [ ] 2020 https://2ality.com/2019/12/ecmascript-2020.html

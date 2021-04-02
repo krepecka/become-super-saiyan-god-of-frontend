@@ -259,7 +259,7 @@ What are common techniquest to monitor performance. What new tools there are.
 
 
 <details>
-  <summary>## React <a name="react"></a>.</summary>
+  ## <summary>React <a name="react"></a>.</summary>
 
 #### React component lifecycle
 

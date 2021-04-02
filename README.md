@@ -417,6 +417,8 @@ https://youtu.be/szh2Qgo9SVE
     
 - [ ] https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/
 
+</details>
+
 ## GraphQL <a name="graphql"></a>
 
 <details>
@@ -432,7 +434,6 @@ https://youtu.be/szh2Qgo9SVE
 ## Security <a name="security"></a>
 
 What types of vurnerabilities there are, have been in the past, best practices.
-
 
 ## SEO <a name="seo"></a>
 

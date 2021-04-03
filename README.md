@@ -479,6 +479,7 @@ What types of vurnerabilities there are, have been in the past, best practices.
 - [ ] https://timdaub.github.io/2021/01/16/web-principles/
 - [ ] axios over fetch ? https://betterprogramming.pub/why-javascript-developers-should-prefer-axios-over-fetch-294b28a96e2c
 - [ ] use `pipe` https://www.obvibase.com/dev-blog/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good
+- [ ] ES2021 features https://2ality.com/2020/09/ecmascript-2021.html
 
 #### Tutorials
 

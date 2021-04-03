@@ -474,6 +474,7 @@ What types of vurnerabilities there are, have been in the past, best practices.
 
 - [ ] https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/
 - [ ] https://timdaub.github.io/2021/01/16/web-principles/
+- [ ] axios over fetch ? https://betterprogramming.pub/why-javascript-developers-should-prefer-axios-over-fetch-294b28a96e2c
 
 #### Tutorials
 

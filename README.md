@@ -439,12 +439,15 @@ https://youtu.be/szh2Qgo9SVE
 ## TypeScript <a name="ts"></a>
 
 <details>
-  <summary>The necessary evil</summary>
+  <summary>The necessary evil(?)</summary>
 
 - [ ] Handbook
     - [ ] https://www.typescriptlang.org/docs/handbook/intro.html
 - [ ] Kent C Dodds said to read about narrowing
     - [ ] https://www.typescriptlang.org/docs/handbook/2/narrowing.html
+- [x] Using union types to avoid impossible states
+  - [x] https://zohaib.me/leverage-union-types-in-typescript-to-avoid-invalid-state/
+  - [x] https://dev.to/housinganywhere/matching-your-way-to-consistent-states-1oag
     
 - [ ] https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/
 
@@ -475,6 +478,7 @@ What types of vurnerabilities there are, have been in the past, best practices.
 - [ ] https://artsy.github.io/blog/2021/03/09/strategies-for-small-focused-pull-requests/
 - [ ] https://timdaub.github.io/2021/01/16/web-principles/
 - [ ] axios over fetch ? https://betterprogramming.pub/why-javascript-developers-should-prefer-axios-over-fetch-294b28a96e2c
+- [ ] use `pipe` https://www.obvibase.com/dev-blog/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good
 
 #### Tutorials
 

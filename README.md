@@ -27,8 +27,12 @@
 - [ ] More generic JS engine (V8) overview 
   - [x] Just In Time (JIT) explained as a concept https://www.freecodecamp.org/news/just-in-time-compilation-explained/
   - [x] JIT crash course https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
-    - baseline compiler to have a baseline compiled versions for warm code
-    - optimized compiler to have very optimized versions for hot code
+    <details>
+      <summary>summary</summary>
+  
+      - baseline compiler to have a baseline compiled versions for warm code
+      - optimized compiler to have very optimized versions for hot code
+    </details>
   - [x] Overview of JS engines https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187
 - [ ] V8 concepts and articles **this blog https://v8.dev/blog**
   - [x] First 10 years of V8 development https://v8.dev/blog/10-years
@@ -39,8 +43,12 @@
   - [ ] Code coverage https://v8.dev/blog/javascript-code-coverage
   - [ ] The cost of JS in 2019 https://v8.dev/blog/cost-of-javascript-2019
   - [x] V8 releaso of V8.9 (2021-02) https://v8.dev/blog/v8-release-89
-    - top level await under a feature flag
-    - optimization for functions with argument mismatch
+    <details>
+      <summary>summary</summary>
+  
+      - top level await under a feature flag
+      - optimization for functions with argument mismatch
+    </details>
   - [ ] Faster `super` calls https://v8.dev/blog/fast-super
   - [ ] Async stack traces https://mathiasbynens.be/notes/async-stack-traces
 - [ ] WASM
@@ -53,21 +61,33 @@
 
 - [ ] Promises
   - [x] MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
-    - Promise can be one of `fulfilled|rejected|pending`.
-    - Every Promise is thennable.
-    - Promise can only be settled once. Subsequent `reject()` and `resolve` calls are ignored.
-    - Resolved promise must have a value (can be `undefined`).
-    - then accepts two arguments: `then(onFulfilled, onRejected)` functions.
-    - then returns a promise. If it's a value - it is wrapped in Promise.resolve()
-    - `Promise` is a global object
-    - `Promise.all` and `Promise.race`
+    <details>
+      <summary>summary</summary>
+  
+      - Promise can be one of `fulfilled|rejected|pending`.
+      - Every Promise is thennable.
+      - Promise can only be settled once. Subsequent `reject()` and `resolve` calls are ignored.
+      - Resolved promise must have a value (can be `undefined`).
+      - then accepts two arguments: `then(onFulfilled, onRejected)` functions.
+      - then returns a promise. If it's a value - it is wrapped in Promise.resolve()
+      - `Promise` is a global object
+      - `Promise.all` and `Promise.race`
+    </details>
   - [x] Popular medium article https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - [ ] async/await
   - [x] async https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
-  ![image](https://user-images.githubusercontent.com/17677991/112530837-94318a80-8daf-11eb-82a5-2403e4e1f10a.png)
+    <details>
+      <summary>summary</summary>
+  
+      ![image](https://user-images.githubusercontent.com/17677991/112530837-94318a80-8daf-11eb-82a5-2403e4e1f10a.png)
+    </details>
 
   - [x] await https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
-![image](https://user-images.githubusercontent.com/17677991/112530755-7e23ca00-8daf-11eb-8faf-86ffc67fd0e6.png)
+    <details>
+      <summary>summary</summary>
+  
+      ![image](https://user-images.githubusercontent.com/17677991/112530755-7e23ca00-8daf-11eb-8faf-86ffc67fd0e6.png)
+    </details>
 
   - [ ] both https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
   - [ ] medium https://medium.com/javascript-in-plain-english/async-await-javascript-5038668ec6eb
@@ -106,9 +126,13 @@
 #### Modules
 
 - [x] MDN overview https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
-  - top level await available
-  - strict mode by default
-  - `<script type="module"` is deferred by default
+  <details>
+      <summary>summary</summary>
+  
+    - top level await available
+    - strict mode by default
+    - `<script type="module"` is deferred by default
+  </details>
 - [x] JS modules and V8 deep dive https://v8.dev/features/modules
 - [x] simple api overview https://www.carlrippon.com/javascript-modules-in-2020/
 - [ ] cartoon deep dive https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/

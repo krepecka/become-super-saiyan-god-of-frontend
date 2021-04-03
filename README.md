@@ -150,6 +150,12 @@
   - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
   - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
   - [ ] https://web.dev/off-main-thread/
+- [ ] IndexedDB
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB
+- [ ] CacheStorage
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage
+- [ ] LocalStorage
+- [ ] SessionStorage
 
 #### HTTP Requests
 
@@ -217,6 +223,11 @@ How to write them and how do they actually work.
     - [ ] dynamic imports 
         - [ ] https://v8.dev/features/dynamic-import
 - [ ] load on interaction (lazy loading) https://addyosmani.com/blog/import-on-interaction/
+- [ ] **Perf beyond bundle size**
+  - [ ] https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/
+- [ ] Code caching after execution https://v8.dev/blog/v8-release-66#code-caching-after-execution
+- [ ] Code caching V8 https://v8.dev/blog/code-caching-for-devs
+- [ ] Fixing memory leaks https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/
 
 #### Performance monitoring/tooling
 
@@ -224,6 +235,7 @@ What are common techniquest to monitor performance. What new tools there are.
 
 - [ ] web vitals
 - [ ] performance observers
+- [ ] user timing API https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API
 - [ ] chrome developer tools
     - [ ] lighthouse
     - [ ] ..
@@ -235,7 +247,7 @@ What are common techniquest to monitor performance. What new tools there are.
 <details>
   <summary>CSS - you have to know it.</summary>
 
-
+- [ ] High performance animations https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 - [ ] box model
 - [ ] flex-box
 - [ ] grid

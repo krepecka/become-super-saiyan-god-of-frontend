@@ -10,6 +10,7 @@
 1. [Tooling](#tooling)
 1. [TypeScript](#ts)
 1. [GraphlQL](#graphql)
+2. [Blockchain development](#dapps)
 3. [Security](#security)
 4. [SEO](#seo)
 5. [Misc](#misc)
@@ -461,6 +462,16 @@ https://youtu.be/szh2Qgo9SVE
 #### Relay
 
 - [ ] Relay hooks https://relay.dev/blog/2021/03/09/introducing-relay-hooks/
+
+</details>
+
+
+## Blockchain development <a name="graphql"></a>
+
+<details>
+  <summary>ETH to the moon 🚀</summary>
+
+- [ ] Simple todo dapp tutorial https://www.youtube.com/watch?v=coQ5dg8wM2o
 
 </details>
 

@@ -466,12 +466,26 @@ https://youtu.be/szh2Qgo9SVE
 </details>
 
 
-## Blockchain development <a name="graphql"></a>
+## Blockchain development <a name="dapps"></a>
 
 <details>
   <summary>ETH to the moon 🚀</summary>
 
-- [ ] Simple todo dapp tutorial https://www.youtube.com/watch?v=coQ5dg8wM2o
+#### dapp tutorials 
+- [x] Simple todo dapp tutorial https://www.youtube.com/watch?v=coQ5dg8wM2o
+- [x] ERC721 tokens https://www.youtube.com/watch?v=YPbgjPPC1d0
+
+#### Ethereum stack
+- [ ] Intro https://ethereum.org/en/developers/docs/intro-to-ethereum/
+- [ ] Smart contracts
+- [ ] Solidity
+
+#### Specific dev tech
+- [ ] Hardhat https://hardhat.org/
+- [ ] ethers.js https://docs.ethers.io/v5/
+- [ ] ethereum waffle https://github.com/EthWorks/Waffle
+- [ ] web3.js https://web3js.readthedocs.io/en/v1.3.4/
+- [ ] metamask https://docs.metamask.io/guide/
 
 </details>
 

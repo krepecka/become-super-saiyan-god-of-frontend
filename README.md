@@ -345,6 +345,8 @@ What are common techniquest to monitor performance. What new tools there are.
     - [ ] https://reactjs.org/docs/web-components.html
 - [ ] Suspense 
     - [ ] https://reactjs.org/docs/concurrent-mode-suspense.html
+- [x] Using `key` prop to control component instances
+  - [x] https://kentcdodds.com/blog/understanding-reacts-key-prop
 
 
 

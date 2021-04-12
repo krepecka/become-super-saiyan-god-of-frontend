@@ -481,6 +481,7 @@ https://youtu.be/szh2Qgo9SVE
 - [ ] Intro https://ethereum.org/en/developers/docs/intro-to-ethereum/
 - [ ] Smart contracts
 - [ ] Solidity
+- [ ] Events and Logs https://medium.com/linum-labs/everything-you-ever-wanted-to-know-about-events-and-logs-on-ethereum-fec84ea7d0a5
 
 #### Specific dev tech
 - [ ] Hardhat https://hardhat.org/

@@ -511,6 +511,7 @@ What types of vurnerabilities there are, have been in the past, best practices.
 - [x] ORM overview 2021 https://www.sitepoint.com/javascript-typescript-orms/
 - [x] Elaborate article on ternary operator vs if statement https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/
 - [x] Svelte vs React in 2021 https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/
+- [ ] State library comparison https://daveceddia.com/react-state-management/
 
 #### Tutorials
 
@@ -531,6 +532,7 @@ What types of vurnerabilities there are, have been in the past, best practices.
 #### Tools
   
 - [ ] Package your node.js app into executable https://github.com/vercel/pkg
+- [ ] Introduce new users to your website https://introjs.com/
   
 https://web.dev/learn/ - should fill in a lot of gaps.
 

@@ -508,6 +508,9 @@ What types of vurnerabilities there are, have been in the past, best practices.
 - [ ] axios over fetch ? https://betterprogramming.pub/why-javascript-developers-should-prefer-axios-over-fetch-294b28a96e2c
 - [ ] use `pipe` https://www.obvibase.com/dev-blog/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good
 - [ ] ES2021 features https://2ality.com/2020/09/ecmascript-2021.html
+- [x] ORM overview 2021 https://www.sitepoint.com/javascript-typescript-orms/
+- [x] Elaborate article on ternary operator vs if statement https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/
+- [x] Svelte vs React in 2021 https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/
 
 #### Tutorials
 
@@ -525,6 +528,10 @@ What types of vurnerabilities there are, have been in the past, best practices.
 - [x] How much you'd save with modern javascript https://estimator.dev/
 - [ ] Rising starts 2021 https://risingstars.js.org/2020/en
 
+#### Tools
+  
+- [ ] Package your node.js app into executable https://github.com/vercel/pkg
+  
 https://web.dev/learn/ - should fill in a lot of gaps.
 
 

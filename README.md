@@ -98,6 +98,7 @@
   - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 - [ ] Type system
   - [ ] undefined vs null revisted https://2ality.com/2021/01/undefined-null-revisited.html
+  - [ ] Wrapped objects for primitive values https://2ality.com/2022/02/wrapper-objects.html
 - [ ] scopes
   - [ ] Scopes and hoisting https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/
   - [ ] Temporal dead zone https://www.freecodecamp.org/news/what-is-the-temporal-dead-zone/

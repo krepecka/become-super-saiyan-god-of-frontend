@@ -228,6 +228,10 @@ How to write them and how do they actually work.
 - [ ] a11y testing
 - [ ] a11y in React:
     - [ ] https://reactjs.org/docs/accessibility.html
+  
+#### Misc
+  
+- [ ] Send requests on page navigation https://css-tricks.com/send-an-http-request-on-page-exit/ (Beacon API, fetch keepalive)
     
 </details>
 

@@ -113,6 +113,8 @@
 - [ ] Math and Number system
   - [ ] https://javascript.info/number
   - [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+- [ ] Proxies https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy
+
 
 
 #### Patterns - existing constructs
@@ -183,6 +185,20 @@
   - [ ] https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage
 - [ ] LocalStorage
 - [ ] SessionStorage
+- [ ] Temporal API
+- [ ] Intl
+- [ ] WebGL
+- [ ] WebRTC
+- [ ] WebSockets
+- [ ] Broadcast channel API
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API
+- [ ] Geolocation API
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+- [ ] FileSystem Access API
+  - [ ] https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API
+- [ ] WebXR API 
+- [ ] Drag and Drop API
+- [ ] Web speech API
 
 #### HTTP Requests
 

@@ -2,6 +2,7 @@
 
 ![Alt Text](https://i.pinimg.com/originals/de/c5/fd/dec5fd7786b84a7455f95970bc5416a3.gif)
 
+1. [Ecosystem Y2023](#ecosystem)
 1. [JavaScript](#javascript)
 1. [Browser](#browser)
 1. [Performance](#perf)
@@ -15,6 +16,17 @@
 4. [SEO](#seo)
 5. [Misc](#misc)
 
+## Ecosystem Y2023+ <a name="ecosystem"></a>
+
+<details>
+  <summary>Going into Y2023 it really feels like the FE development landscape is becoming more mature and stable. There qre quite distinct winners and losers in various framework and library races (React vs the field, typescript over flow). This section lists libraries and frameworks that on should be familiar with or which would be useful when starting a new project.</summary>
+  
+  - svelte, solidjs as new players in the UI framework scena
+  - nextjs or remix for react meta framework
+  - zodjs for type safe schemas https://github.com/colinhacks/zod   
+
+
+</details>
 
 ## JavaScript <a name="javascript"></a>
 
